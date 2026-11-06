@@ -43,3 +43,14 @@ The prompts are organised into functional categories to make it easier to discov
 1. [Component Management](/prompts/component%20management/list-components.md) - for discovering and working with components used across SitecoreAI pages.
 2. [Experiments](/experiments/create-component-ab-test.md) - for creating and managing marketing experiments through SitecoreAI.
 
+
+## Disclaimer
+This repository is a community-oriented collection of prompts and examples maintained by Kate Orlova.
+
+The examples are provided for learning and experimentation. Actual behaviour may vary depending on the SitecoreAI environment, available MCP tools, user permissions and AI assistant capabilities.
+
+Always review and validate operations before applying changes to production environments!
+
+
+**Explore, experiment and discover what is possible with [SitecoreAI](https://doc.sitecore.com/sai/en/users/sitecoreai/sitecoreai.html) and [Sitecore Marketer MCP](https://doc.sitecore.com/sai/en/users/sitecoreai/sitecore-marketer-mcp-server.html)!**
+
