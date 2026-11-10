@@ -21,4 +21,31 @@ After validating that the requested component exists and retrieving its datasour
 
 
 
+# Add a component and set its datasource
+Once the datasource item has been created it can be assigned to a component on a page.
+
+## Prompt
+To add a Promo component to one of the existing pages and assign the newly created datasource to it use the following prompt:
+```
+add a Promo component to Home and point it at this newly created datasource, use /headless-main/container-1 placeholder
+```
+
+## Output
+Here is a response from Claude after adding the component to the page and assigning its datasource:
+![Add Component and Set Component Datasource](../../assets/prompts/create_component_ds-5.png)
+
+While Claude processes your request it may ask for permission to use the `Add Component On Page` and `Set Component Datasource` tools to add the required component to a specific placeholder on the selected page and assign the datasource to it. You will see the following notifications:
+
+![Permission to use Add Component On Page](../../assets/prompts/create_component_ds-6.png)
+![Permission to use Set Component Datasource](../../assets/prompts/create_component_ds-7.png)
+
+
+
+
+
+
+
+
+
+
 
