@@ -38,10 +38,11 @@ Some operations require explicit confirmation before the MCP server executes the
 
 ## Prompt Library
 
-The prompts are organised into functional categories to make it easier to discover relevant use cases.
+The prompts are organised into functional categories to make it easier to discover relevant use cases:
 
-1. [Component Management](/prompts/component%20management/list-components.md) - for discovering and working with components used across SitecoreAI pages.
-2. [Experiments](/experiments/create-component-ab-test.md) - for creating and managing marketing experiments through SitecoreAI.
+1. [Component Management](/prompts/component%20management/) - for discovering and working with components used across SitecoreAI pages;
+2. [Experiments](/prompts/experiments/) - for creating and managing marketing experiments through SitecoreAI;
+3. [Page Management](/prompts/page%20management/) - for retrieving and managing SitecoreAI pages.
 
 
 ## Disclaimer
